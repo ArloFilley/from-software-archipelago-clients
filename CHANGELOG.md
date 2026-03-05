@@ -1,5 +1,7 @@
 ## 4.1.0-alpha.5
 
+* Make the Hidden Blessing in Dreamchaser's Ashes unmissable.
+
 * Make all remaining missable invasions unmissable.
 
 * Make Sirris's, Hodrick's, Leonhard's, and Hawkwood's quests unmissable when
