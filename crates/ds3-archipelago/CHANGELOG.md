@@ -1,5 +1,7 @@
 ## 4.0.0-rc.8
 
+* Fix a bug where the game and slot were reversed in the Archipelago protocol.
+
 * Update the ME3 config to refer to `ds3_archipelago.dll`.
 
 ## 4.0.0-rc.7
