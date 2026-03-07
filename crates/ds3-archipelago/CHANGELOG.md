@@ -1,3 +1,7 @@
+## 4.0.0-rc.6
+
+* Fix a null reference error in DS3Randomizer.exe.
+
 ## 4.0.0-rc.5
 
 * Fix a release error where the version number was computed incorrectly.
