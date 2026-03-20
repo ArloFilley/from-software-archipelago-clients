@@ -80,11 +80,17 @@ jobs:
         repository: fswap/SoulsIds
         ref: event-id
         path: SoulsIds
+    # Used by SoulsRandomizers
     - uses: actions/checkout@v4
       with:
         repository: thefifthmatt/SoulsFormats
         ref: dsms
         path: SoulsFormats
+    # Used by SoulsIds
+    - uses: actions/checkout@v4
+      with:
+        repository: thefifthmatt/SoulsFormatsNEXT
+        path: SoulsFormatsNEXT
     - uses: microsoft/setup-msbuild@v2
     - uses: actions/checkout@v4
       with:
